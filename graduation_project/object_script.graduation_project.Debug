@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\main_interface.o
+./debug\key_por.o
+./debug\inbutton.o
+./debug\function.o
+./debug\hand.o
+./debug\rfid.o
+./debug\music.o
+./debug\moc_main_interface.o
+./debug\moc_key_por.o
+./debug\moc_function.o
+./debug\moc_hand.o
+);

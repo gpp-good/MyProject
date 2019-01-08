@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\main_interface.o
+./release\key_por.o
+./release\inbutton.o
+./release\function.o
+./release\hand.o
+./release\rfid.o
+./release\music.o
+./release\moc_main_interface.o
+./release\moc_key_por.o
+./release\moc_function.o
+./release\moc_hand.o
+);
